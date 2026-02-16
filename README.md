@@ -1,4 +1,4 @@
-# THCE
+# Tradução Histórica e Científica das Escrituras
 Tradução Histórica e Científica das Escrituras (THCE)
 
  A Tradução Histórica e Científica das Escrituras (THCE) é um projeto independente de tradução bíblica cujo objetivo é oferecer uma versão que priorize fidelidade filológica, coerência terminológica e respeito ao contexto histórico dos textos originais. A proposta da THCE é reduzir interferências interpretativas posteriores ao texto e preservar, sempre que possível, as estruturas gramaticais e as nuances semânticas presentes nos idiomas originais.
